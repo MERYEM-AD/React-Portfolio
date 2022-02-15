@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.08325502.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.3439ac75.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.3439ac75.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0ad08de7.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0ad08de7.js.map",
+    "static/js/2.102548e6.chunk.js": "/React-Portfolio/static/js/2.102548e6.chunk.js",
+    "static/js/2.102548e6.chunk.js.map": "/React-Portfolio/static/js/2.102548e6.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.d3f89e1e4fa72ed49469c0b445a34442.js": "/React-Portfolio/precache-manifest.d3f89e1e4fa72ed49469c0b445a34442.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.08325502.chunk.css.map": "/React-Portfolio/static/css/main.08325502.chunk.css.map",
+    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/Coding Quiz.png": "/React-Portfolio/static/media/Coding Quiz.c447cfe3.png",
+    "static/media/Day Planner.png": "/React-Portfolio/static/media/Day Planner.9d97a139.png",
+    "static/media/Flash Shopping.png": "/React-Portfolio/static/media/Flash Shopping.7d10b4e4.png",
+    "static/media/Food Tracker.png": "/React-Portfolio/static/media/Food Tracker.d317cda5.png",
+    "static/media/Note Taker.png": "/React-Portfolio/static/media/Note Taker.fadff751.png",
+    "static/media/Password Generator.png": "/React-Portfolio/static/media/Password Generator.be3fb3f3.png",
+    "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.f4ddc338.pdf",
+    "static/media/Tech blog.png": "/React-Portfolio/static/media/Tech blog.2dd1a574.png",
+    "static/media/Weather Dashboard.png": "/React-Portfolio/static/media/Weather Dashboard.37dba39b.png",
+    "static/media/cover-image.jpg": "/React-Portfolio/static/media/cover-image.402a471b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad08de7.js",
+    "static/js/2.102548e6.chunk.js",
+    "static/css/main.08325502.chunk.css",
+    "static/js/main.3439ac75.chunk.js"
+  ]
+}

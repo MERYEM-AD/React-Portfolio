@@ -17,6 +17,12 @@ SO THAT I can assess whether they're a good candidate for an open position
   - [ScreenShot](#screenShot)
   - [Links](#links)
   - [Usage](#usage)
+  - [Learn More](#learn-more)
+  - [Code Splitting](#code-splitting)
+  - [Analyzing the Bundle Size](#analyzing-the-bundle-size)
+  - [Making a Progressive Web App](#making-a-progressive-web-app)
+  - [Advanced Configuration](#advanced-configuration)
+  - [Deployment](#deployment)
   - [Questions](#questions)
   - [Copyright](#copyright)
 

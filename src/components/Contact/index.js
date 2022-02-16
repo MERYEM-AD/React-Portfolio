@@ -77,6 +77,15 @@ function Contact() {
         )}
         <button type="submit">Submit</button>
       </form>
+<div>
+  <ul> 
+
+    <li>Email address : adiri.meryem.mw@gmail.com</li>
+    <li>Phone Number : (603) 858 - 10 - 69</li>
+  </ul>
+
+</div>
+ 
     </section>
   );
 }

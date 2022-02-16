@@ -6,7 +6,7 @@ function Resume() {
       <div className="my-2">
       <p>
         {/* require(`../../assets/projects/${name}.png`) */}
-        Download my <a href={require('../../assets/documents/Resume.pdf')}>resume</a>
+        Download my <a href={require('../../assets/documents/Resume.pdf')} >resume</a>
         </p>
         <h3>Front-end Proficiencies</h3>
         <ul className="skills">
